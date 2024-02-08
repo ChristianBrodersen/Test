@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"LD","Var":"test0"},{"__type":"ST","Ix":1,"Var":"test1","X":1}],"LRI":2,"RRI":3,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"test0"},{"__type":"ST","Ix":2,"Var":"test3","X":1},{"__type":"ST","Ix":1,"Var":"test1","X":2}],"LRI":3,"RRI":4,"VLs":[]}
